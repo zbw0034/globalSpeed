@@ -1,5 +1,5 @@
 # Global Speed
-Web extension that sets a default speed for HTML media elements (video and audio). 
+Web extension that sets a default speed for HTML media elements (video and audio). （改变百度网盘以及b站等视频速度）
 
 ## install the [Chrome](https://chrome.google.com/webstore/detail/global-speed-youtube-netf/jpbjcnkcffbooppibceonlgknpkniiff), [Firefox](https://addons.mozilla.org/firefox/addon/global-speed/), or [Edge](https://microsoftedge.microsoft.com/addons/detail/mjhlabbcmjflkpjknnicihkfnmbdfced) extension. 
 
